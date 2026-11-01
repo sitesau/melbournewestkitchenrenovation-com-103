@@ -1,0 +1,22 @@
+{
+  "wheel_id": 645,
+  "structure": "umbrella",
+  "slug": "melbournewestkitchenrenovation-com-103",
+  "project": "kitchen-renovations-melbourne-west-quotes-explained-18d377f5ab8",
+  "parent_t1_ref": "melbournewestkitchenrenovation-com-152",
+  "node_role": "feeder",
+  "money_target": "melbournewestkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations melbourne west quotes explained",
+  "intended_url": "http://kitchen-renovations-melbourne-west-quotes-explained-18d377f5ab8.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "b7d03b6d598f1b3e",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/melbournewestkitchenrenovation-com-152/",
+      "anchor": "Kitchen Renovations Melbourne West Before You Start: Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
